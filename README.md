@@ -21,7 +21,7 @@ This is a Project proposed by Colt Steele in his course Web Developer Bootcamp. 
 
 ### Links
 
-- Live Site URL: [Travel Goals](https://thamyrix-travel-goals.netlify.app/))
+- Live Site URL: [Travel Goals](https://thamyrix-travel-goals.netlify.app/)
 
 ## My process
 
