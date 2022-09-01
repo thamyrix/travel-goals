@@ -17,7 +17,7 @@ This is a Project proposed by Colt Steele in his course Web Developer Bootcamp. 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.JPG)
 
 ### Links
 
